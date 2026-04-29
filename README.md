@@ -37,7 +37,6 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [Vidiski](https://github.com/Byski/Vidiski) | Video studio that turns any URL into a short-form promo | Next.js · Remotion · Playwright |
-| [Reboxd](https://github.com/Byski/Reboxd) | Hyperlocal student exchange marketplace | FastAPI · Next.js · Expo · Supabase |
 | [ProductOracle](https://github.com/Byski/ProductOracle) | Product roadmap engine with impact scoring | Next.js · TypeScript · SQLite |
 | [Byski-AI](https://github.com/Byski/Byski-AI) | Local-first study assistant | Python · Ollama · Chroma · Streamlit |
 | [Market-Rent-Intelligence-Pipeline](https://github.com/Byski/Market-Rent-Intelligence-Pipeline) | Irish housing data pipeline | Python · DuckDB · FastAPI · pandas |
