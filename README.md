@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1f6feb&height=220&section=header&text=Byski&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20engineer%20%E2%80%94%20AI%20pipelines%20%C2%B7%20data%20infrastructure%20%C2%B7%20shipped%20products&descAlignY=64&descSize=17&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1f6feb&height=220&section=header&text=Byski&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20engineer%20%C2%B7%20data%20infrastructure%20%C2%B7%20shipped%20products&descAlignY=64&descSize=17&descColor=8b949e" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=Building+AI+pipelines+that+ship;TypeScript+%C2%B7+Python+%C2%B7+Next.js+%C2%B7+FastAPI;RAG+systems+%C2%B7+data+infrastructure+%C2%B7+full-stack;Open+to+interesting+problems." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=Building+systems+that+ship;TypeScript+%C2%B7+Python+%C2%B7+Next.js+%C2%B7+FastAPI;Data+infrastructure+%C2%B7+full-stack+systems;Open+to+interesting+problems." alt="Typing SVG"/>
 
 </div>
 
@@ -26,8 +26,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 </div>
@@ -38,11 +36,11 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Vidiski](https://github.com/Byski/Vidiski) | AI video studio — turns any URL into a 30s vertical promo | Next.js · OpenAI · Remotion · Playwright |
+| [Vidiski](https://github.com/Byski/Vidiski) | Video studio that turns any URL into a short-form promo | Next.js · Remotion · Playwright |
 | [Reboxd](https://github.com/Byski/Reboxd) | Hyperlocal student exchange marketplace | FastAPI · Next.js · Expo · Supabase |
-| [ProductOracle](https://github.com/Byski/ProductOracle) | Strategy-aware product roadmap engine with probabilistic impact scoring | Next.js · TypeScript · SQLite · Grok AI |
-| [Byski-AI](https://github.com/Byski/Byski-AI) | Local-first RAG legal study assistant — no paid API | Python · Ollama · Chroma · Streamlit |
-| [Market-Rent-Intelligence-Pipeline](https://github.com/Byski/Market-Rent-Intelligence-Pipeline) | Irish housing data pipeline — RTB · PPR · CSO | Python · DuckDB · FastAPI · pandas |
+| [ProductOracle](https://github.com/Byski/ProductOracle) | Product roadmap engine with impact scoring | Next.js · TypeScript · SQLite |
+| [Byski-AI](https://github.com/Byski/Byski-AI) | Local-first study assistant | Python · Ollama · Chroma · Streamlit |
+| [Market-Rent-Intelligence-Pipeline](https://github.com/Byski/Market-Rent-Intelligence-Pipeline) | Irish housing data pipeline | Python · DuckDB · FastAPI · pandas |
 
 ---
 
