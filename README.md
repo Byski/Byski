@@ -1,8 +1,34 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1f6feb&height=220&section=header&text=Byski&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20engineer%20%E2%80%94%20AI%20pipelines%20%C2%B7%20data%20infrastructure%20%C2%B7%20shipped%20products&descAlignY=64&descSize=17&descColor=8b949e" width="100%"/>
+
 <div align="center">
 
-# Byski
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=Building+AI+pipelines+that+ship;TypeScript+%C2%B7+Python+%C2%B7+Next.js+%C2%B7+FastAPI;RAG+systems+%C2%B7+data+infrastructure+%C2%B7+full-stack;Open+to+interesting+problems." alt="Typing SVG"/>
 
-**Full-stack engineer — AI pipelines · data infrastructure · shipped products**
+</div>
+
+---
+
+<div align="center">
+
+### Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 </div>
 
@@ -12,30 +38,28 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Vidiski](https://github.com/Byski/Vidiski) | AI video studio — turns any URL into a 30s promo | Next.js · OpenAI · Remotion · Playwright |
-| [Reboxd](https://github.com/Byski/Reboxd) | Hyperlocal student exchange marketplace | FastAPI · Next.js · Expo · Supabase · PostgreSQL |
+| [Vidiski](https://github.com/Byski/Vidiski) | AI video studio — turns any URL into a 30s vertical promo | Next.js · OpenAI · Remotion · Playwright |
+| [Reboxd](https://github.com/Byski/Reboxd) | Hyperlocal student exchange marketplace | FastAPI · Next.js · Expo · Supabase |
 | [ProductOracle](https://github.com/Byski/ProductOracle) | Strategy-aware product roadmap engine with probabilistic impact scoring | Next.js · TypeScript · SQLite · Grok AI |
-| [Byski-AI](https://github.com/Byski/Byski-AI) | Local-first RAG legal study assistant (no paid API) | Python · Ollama · Chroma · Streamlit |
-| [Market-Rent-Intelligence-Pipeline](https://github.com/Byski/Market-Rent-Intelligence-Pipeline) | Read-only Irish housing data pipeline (RTB · PPR · CSO) | Python · DuckDB · FastAPI · pandas |
-
----
-
-### Stack
-
-```
-Languages    TypeScript   Python   C++   MQL5
-Frontend     Next.js      React    Expo  Tailwind CSS
-Backend      FastAPI      Node.js        PostgreSQL
-AI / ML      OpenAI       Ollama   RAG   Chroma
-Infra        Supabase     Vercel   Render
-```
+| [Byski-AI](https://github.com/Byski/Byski-AI) | Local-first RAG legal study assistant — no paid API | Python · Ollama · Chroma · Streamlit |
+| [Market-Rent-Intelligence-Pipeline](https://github.com/Byski/Market-Rent-Intelligence-Pipeline) | Irish housing data pipeline — RTB · PPR · CSO | Python · DuckDB · FastAPI · pandas |
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Byski&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Byski&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7" height="155"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byski&layout=compact&theme=github_dark&hide_border=true&hide=html,css,scss" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byski&layout=compact&theme=github_dark&hide_border=true&hide=html,css,scss&bg_color=0d1117&title_color=2f81f7" height="155"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Byski&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&dates=8b949e" height="155"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Byski&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=8" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
